@@ -31,18 +31,19 @@ Before you begin, ensure you have the following software installed on your machi
 
 1. Clone the repository:
 ``` bash
-git clone https://github.com/your-org/employee-location-tracker.git
+git clone https://github.com/IOGPS3/React_Native_Frontend.git
 ```
 
 2. Navigate to the project folder:
-
 ```bash
 cd employee-location-tracker
 ```
+
 3. Install the project dependencies:
 ```
 npm install
 ```
+
 4. Download Expo Go
 Install the [Expo Go](https://expo.dev/client) app on your iOS or Android phone and connect to the same wireless network as your computer. On Android, use the Expo Go app to scan the QR code from your terminal to open your project. On iOS, use the built-in QR code scanner of the default iOS Camera app.
 
