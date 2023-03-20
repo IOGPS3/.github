@@ -1,1 +1,66 @@
-Hello World 👋
+# Employee Location Tracker
+
+## Overview
+Employee Location Tracker is a React Native application designed to help the company to track the location of their employees, enabling them to determine whether employees are at the office or working remotely. This project has been developed by a team of 6 students as part of our collaboration with the company.
+
+In the future, we plan to add APIs to further enhance the functionality of the app.
+
+## Table of Contents
+
+- [Getting Started](#getting-started) 
+- [Prerequisites](#prerequisites) 
+- [Installation](#installation) 
+- [Features](#features) 
+- [Roadmap](#roadmap) 
+- [Contributors](#contributors)
+
+
+## Getting Started
+Follow these instructions to set up the project on your local machine.
+
+### Prerequisites
+Before you begin, ensure you have the following software installed on your machine:
+
+- Node.js (Vxx.x.x or higher)
+- npm (Vx.x.x or higher)
+- React Native CLI (Vx.x.x or higher)
+- Android Studio or Xcode (for running the application on a simulator or a device)
+
+
+### Installation
+
+1. Clone the repository:
+``` bash
+git clone https://github.com/your-org/employee-location-tracker.git
+```
+
+2. Navigate to the project folder:
+
+```bash
+cd employee-location-tracker
+```
+3. Install the project dependencies:
+```
+npm install
+```
+4. ...
+
+
+## Features
+User authentication
+Employee location tracking
+Customizable privacy settings
+IP geolocation for office location
+
+
+## Roadmap
+Add APIs to enhance the functionality
+
+
+## Contributors
+- [Siem](https://github.com/siem125)
+- [Evalynn](https://github.com/EvalynnLuna)
+- [Soleil](https://github.com/Soleil92)
+- [Luuk](https://github.com/MrTheRat)
+- [Sven](https://github.com/SvenSimons468761)
+- [Laurenz](https://github.com/LaurenzPoll)
