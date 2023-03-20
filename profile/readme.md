@@ -21,10 +21,11 @@ Follow these instructions to set up the project on your local machine.
 ### Prerequisites
 Before you begin, ensure you have the following software installed on your machine:
 
-- Node.js (Vxx.x.x or higher)
-- npm (Vx.x.x or higher)
-- React Native CLI (Vx.x.x or higher)
-- Android Studio or Xcode (for running the application on a simulator or a device)
+- Node.js (v18.x.x or higher)
+- npm (v9.x.x or higher)
+- React (v18.2.0 or higher)
+- React Native (v0.71.3 or higher)
+- Android Studio, Xcode or Expo go (for running the application on a simulator or a device)
 
 
 ### Installation
@@ -36,7 +37,7 @@ git clone https://github.com/IOGPS3/React_Native_Frontend.git
 
 2. Navigate to the project folder:
 ```bash
-cd employee-location-tracker
+cd React_Native_Frontend
 ```
 
 3. Install the project dependencies:
@@ -64,14 +65,14 @@ npm run web
 ```
 
 ## Features
+
+
+
+## Roadmap
 User authentication
 Employee location tracking
 Customizable privacy settings
 IP geolocation for office location
-
-
-## Roadmap
-Add APIs to enhance the functionality
 
 
 ## Contributors
